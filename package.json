@@ -1,0 +1,11 @@
+{
+  "name": "get-query-selector",
+  "version": "0.0.1",
+  "description": "get the query selector for a given element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Peklak <thomas.peklak@gmail.com>",
+  "license": "BSD-2-Clause"
+}
